@@ -1,1 +1,3 @@
-tools.json
+{
+	"tools": ["Update Terminal", "Upgrade Terminal", "Clear Terminal"]
+}
